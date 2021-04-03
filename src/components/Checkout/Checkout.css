@@ -1,0 +1,68 @@
+.checkout-area{
+    background: #F8EEDC !important;
+    min-height: 100vh;
+}
+.checkout-details{
+    background: white;
+    padding: 20px 35px !important;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 2px lightgrey;
+    margin-top: 50px;
+}
+.checkout-title{
+    color: #363958;
+    margin-left: 12px;
+}
+.table-section{
+    text-align: center;
+    margin-top: 40px;
+}
+thead {
+    color: #363958 !important;
+}
+tbody {
+    color: black !important;
+    font-weight: 500 !important;
+}
+
+/* comfirm area */
+
+.bg-confirm{
+    background: #F8EEDC;
+    height: 100vh;
+    padding: 25px 0;
+}
+.bg-confirm .title-set{
+    margin-bottom: 25px !important;
+}
+.confirm-box .table td, .table th {
+    border-top: none !important;
+}
+.confirm-box{
+    width: 90%;
+    margin: auto;
+    box-shadow: 0px 0px 12px 0px rgb(116, 216, 116);
+    text-align: center;
+    padding: 30px 50px;
+    border-radius: 10px;
+    background: white !important;
+    display: block;overflow: hidden;
+}
+.confirm-box h3{
+    color: green;
+    margin-bottom: 30px;
+}
+.confirm-box .table thead th {
+    border-bottom: none !important;
+}
+.confirm-box td{
+    color: green;
+    font-weight: 500;
+}
+.confirm-box tr {
+    border-bottom: 1px solid lightgray;
+}
+.title-set{
+    margin-left: 5%;
+    margin-bottom: 2.5rem!important;
+}

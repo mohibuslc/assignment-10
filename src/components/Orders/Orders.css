@@ -1,0 +1,34 @@
+.login-user-details img {
+    width: 120px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+.order-wrapper{
+    background-color: #F8EEDC;
+}
+.order-details{
+    background-color: #F8EEDC;
+    padding: 40px 0;
+    min-height: 100vh !important;
+    max-height: 100% !important;
+}
+.login-user-details{
+    color: green;
+    text-align: center;
+    padding: 30px 0;
+    background-color: white;
+    max-width: 500px !important;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 16px 0px rgb(116, 216, 116);
+}
+.order-details-title{
+    color: green;
+    margin: 40px 0 30px;
+    font-weight: bold;
+}
+.details-bg{
+    margin-top: 30px;
+    background-color: white;
+    border-radius: 10px;
+}

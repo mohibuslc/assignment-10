@@ -1,0 +1,29 @@
+.manage-background{
+    background: #e1f3f0;
+    min-height: 100vh;
+    padding: 40px 0;
+}
+.product-info .table thead th {
+    vertical-align: bottom;
+    border-bottom: none !important;
+    color:#202452 !important;
+    background: #f5dcdc;
+}
+.product-info .table td, .product-info .table-design.table th {
+    border-top: none !important;
+}
+.border-left-design{
+    border-radius: 6px 0 0 6px;
+}
+.border-right-design{
+    border-radius: 0 6px 6px 0;
+}
+.product-info{
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+button.btn.delete-btn {
+    background: #ff0000c7;
+    color: white;
+}

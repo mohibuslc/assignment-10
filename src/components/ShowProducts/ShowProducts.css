@@ -1,0 +1,26 @@
+
+.card {
+    padding: 10px 30px;
+    text-align: center;
+    box-shadow: 2px 2px 15px 2px rgb(116, 216, 116)  ;
+}
+.card-img, .card-img-top {
+    margin-top: 10px;
+}
+.buy-btn{
+    background-color: green!important;
+    color: white !important;
+    margin-top: 20px;
+    padding: 8px 25px !important;
+    font-size: 18px !important;
+}
+.card-title {
+    margin-bottom: .1rem;
+    min-height: 4rem;
+}
+p.card-text {
+    color: green;
+    font-weight: 500;
+    font-size: 24px;
+    margin: 0;
+} 

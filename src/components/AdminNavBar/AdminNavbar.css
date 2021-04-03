@@ -1,0 +1,23 @@
+
+.admin-nav-area{
+    min-height: 100vh;
+    background: #203D37;
+}
+.nav-area{
+    background-color: #203d37;
+    text-align: center;
+    min-height: 100vh;
+    padding: 30px 0;
+}
+.nav-area .nav-link{
+    color: white;
+    margin: 5px 0;
+}
+.title-admin{
+    color: green !important;
+    margin-bottom: 20px;
+}
+.nav-area .nav-link:hover,
+.nav-area .nav-link:focus{
+    background: #2d524a;
+}

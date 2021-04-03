@@ -1,0 +1,28 @@
+.header-title{
+    color: green !important;
+    font-size: 32px !important;
+    font-weight: bold;
+}
+.header-nav .nav-link{
+    color: #000 !important;
+    font-weight: 500;
+    margin: 15px;
+    width: fit-content;
+    border-bottom: 2px solid transparent;
+}
+.header-nav .nav-link:hover{
+    color: green !important;
+    border-bottom: 2px solid green;
+}
+.login-nav.nav-link{
+    background-color: green;
+    color: white !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    border-radius: 5px;
+}
+.login-nav.nav-link:hover{
+    border: none !important;
+    color: white !important;
+    opacity: .8;
+}
